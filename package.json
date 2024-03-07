@@ -1,0 +1,23 @@
+{
+  "name": "faiza-tea",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faizase/faiza-tea.git"
+  },
+  "dependencies": {
+    "faiza-tea": "1.0.0",
+    "archik-tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizase/faiza-tea/issues"
+  },
+  "homepage": "https://github.com/faizase/faiza-tea#readme"
+}
